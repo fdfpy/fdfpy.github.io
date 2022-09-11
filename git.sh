@@ -1,6 +1,6 @@
 #!/bin/bash
 
-###下記の処理は、Raspi3のdocker conatiner上で実施する。
+####下記の処理は、Raspi3のdocker conatiner上で実施する。
 
 
 cp /home/pi//vrctest/node-js-getting-started/public/vrchart.mp4 /home/pi/vrctest/fdfpy.github.io/vrchart.mp4

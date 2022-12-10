@@ -7,7 +7,7 @@ cp /home/pi//vrctest/node-js-getting-started/public/vrchart.mp4 /home/pi/vrctest
 cp /home/pi/vrctest/node-js-getting-started/public/toraku.mp4 /home/pi/vrctest/fdfpy.github.io/toraku.mp4
 cp /home/pi/vrctest/node-js-getting-started/public/kobetsu.mp4 /home/pi/vrctest/fdfpy.github.io/kobetsu.mp4
 cp /home/pi/vrctest/node-js-getting-started/public/zadankai/zslide.mp4 /home/pi/vrctest/fdfpy.github.io/zslide.mp4
-cp /home/pi/vrctest/node-js-getting-started/public/zadankai/zslide_guest.mp4 /home/pi/vrctest/fdfpy.github.io/zslide_guest.mp4
+cp /home/pi/vrctest/node-js-getting-started/public/zadankai_guest/zslide_guest.mp4 /home/pi/vrctest/fdfpy.github.io/zslide_guest.mp4
 
 cd /home/pi/vrctest/fdfpy.github.io
 git add .
